@@ -4,6 +4,7 @@
 - https://github.com/WereDev/Wu10Man to disable auto update
 - v2ray with https://jinkela.app/auth/login
 - kmspico
+- https://github.com/abbodi1406/vcredist
 - wallpaper from douyin
 ## coding
 - python
