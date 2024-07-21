@@ -6,7 +6,7 @@
 - kmspico
 - firewall
 - https://github.com/abbodi1406/vcredist
-- wallpaper from douyin
+- wallpaper from ???
 ## coding
 - python
 - vscode
