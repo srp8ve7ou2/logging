@@ -5,8 +5,9 @@
 - v2ray with https://jinkela.app/auth/login
 - kmspico
 - firewall
+- notification
 - https://github.com/abbodi1406/vcredist
-- wallpaper from ???
+- wallpaper engine
 ## coding
 - python
 - vscode
