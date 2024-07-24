@@ -11,7 +11,7 @@
 ## coding
 - python
 - vscode
-- cmder
+- vs2017
 ## rev
 - ida
 - x64dbg
